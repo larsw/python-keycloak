@@ -5,7 +5,7 @@ chardet==3.0.4
 Click==7.0
 colorama==0.4.1
 coverage==4.5.2
-ecdsa==0.13
+ecdsa==0.13.3
 Flask==1.0.2
 flask-oidc==1.4.0
 Flask-SQLAlchemy==2.3.2
